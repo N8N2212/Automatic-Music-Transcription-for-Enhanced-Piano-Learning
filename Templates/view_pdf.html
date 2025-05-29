@@ -1,1 +1,15 @@
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>View Transcription PDF</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Transcription Result</h1>
+      <iframe src="{{ url_for('results_file', filename=filename) }}"></iframe>
+      <a class="download-link" href="{{ url_for('results_file', filename=filename) }}" download>Download PDF</a>
+    </div>
+  </body>
+</html>
