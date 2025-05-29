@@ -2,7 +2,7 @@
 Final Year project for year 2024/5
 # Piano MP3 to Sheet Music
 
-This repository contains a Python-based transcription system that converts monophonic and polyphonic piano MP3 recordings into engraved sheet-music PDFs.
+This repository contains a Python-based transcription system that converts beginner level piano MP3/WAV recordings into engraved sheet-music PDFs.
 
 ## Features
 
