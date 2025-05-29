@@ -23,5 +23,6 @@ This repository contains a Python-based transcription system that converts begin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUserName/piano-mp3-to-sheet.git
-   cd piano-mp3-to-sheet
+   git clone https://github.com/N8N2212/Automatic-Music-Transcription-for-Enhanced-Piano-Learning.git
+   cd Automatic-Music-Transcription-for-Enhanced-Piano-Learning
+
