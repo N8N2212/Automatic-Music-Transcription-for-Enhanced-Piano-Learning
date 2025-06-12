@@ -1,4 +1,4 @@
-# Automatic-Music-Transcription-for-Enhanced-Piano-Learning
+# Automatic Piano Transcription: Converting Audio to Sheet Music for Enhanced Learning and Practice
 Final Year project for year 2024/5
 # Piano MP3 to Sheet Music
 
